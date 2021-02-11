@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "lk"
+  description: "lk"
+  annotations:
+    github.com/project-slug: blamdemo/gigj
+    backstage.io/techdocs-ref: url:https://github.com/blamdemo/gigj
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "lkkl"
